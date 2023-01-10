@@ -1,0 +1,34 @@
+#box1{
+    text-decoration: overline;
+   
+     
+}
+
+h1{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px
+}
+#content{
+    outline: auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px
+}
+
+
+.cntbox{
+    display: inline-flex;
+    outline: auto;
+    background-color: white;
+    height: 540px;
+    width: 750px;
+    margin-left: 20px;
+
+}
