@@ -29,6 +29,28 @@ h1{
     background-color: white;
     height: 540px;
     width: 750px;
-    margin-left: 20px;
+    margin-left: 100px;
+    align-items: center;
 
+}
+
+.navbar{
+    outline: auto;
+    height: 400px;
+    
+}
+
+#list1{
+  list-style: none;
+  display: inline;
+  
+  
+}
+
+.items{
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 200px;
+  height: 50px;
+    
 }
